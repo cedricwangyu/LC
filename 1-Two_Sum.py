@@ -1,3 +1,4 @@
+
 class Solution:
     def twoSum(self, nums, target):
         p = {}
@@ -8,4 +9,3 @@ class Solution:
             else:
                 p[n] = i
             
-        
